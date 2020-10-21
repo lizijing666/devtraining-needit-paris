@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</contains>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">b322f2202f80a0108f59fcecf699b69d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-21 05:41:33</sys_created_on>
+        <sys_id>3163fa202f80a0108f59fcecf699b6bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.needit_user.x_58872_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_3163fa202f80a0108f59fcecf699b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-21 05:41:33</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>25b996dcdb07085491232f17d496198d</instance_id>
+        <instance_name>dev100816</instance_name>
+        <name>sys_user_role_contains_3163fa202f80a0108f59fcecf699b6bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</contains><role display_value="x_58872_needit.admin" name="x_58872_needit.admin">b322f2202f80a0108f59fcecf699b69d</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-21 05:41:33</sys_created_on><sys_id>3163fa202f80a0108f59fcecf699b6bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.needit_user.x_58872_needit.admin</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_contains_3163fa202f80a0108f59fcecf699b6bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-21 05:41:33</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>2069960437</payload_hash>
+        <record_name>x_58872_needit.needit_user.x_58872_needit.admin</record_name>
+        <reverted_from/>
+        <source>272e49582fc060108f59fcecf699b655</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-21 05:41:34</sys_created_on>
+        <sys_id>7163fa202f80a0108f59fcecf699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17549ad470d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-21 05:41:34</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>b963fa20be80a0101a2c919be86c0dbf</update_guid>
+        <update_guid_history>b963fa20be80a0101a2c919be86c0dbf:2069960437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-21 06:44:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>3e42b74ba78b43088466ef18e619c110</sys_id>
+        <sys_metadata>3163fa202f80a0108f59fcecf699b6bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.needit_user.x_58872_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_3163fa202f80a0108f59fcecf699b6bc</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_3163fa202f80a0108f59fcecf699b6bc">7163fa202f80a0108f59fcecf699b6c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-21 06:44:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
